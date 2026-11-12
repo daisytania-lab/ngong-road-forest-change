@@ -1,0 +1,8 @@
+data/raw/
+*.tif
+*.tiff
+*.zip
+*.qgs~
+*.qgz~
+__pycache__/
+.DS_Store
